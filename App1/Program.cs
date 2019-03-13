@@ -11,6 +11,7 @@ namespace App1
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo");
+            Console.WriteLine("Hoje estamos praticando git");
             Console.ReadLine();
         }
     }
