@@ -13,6 +13,7 @@ namespace App1
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Hoje estamos praticando git");
             Console.WriteLine("Será que vai chover?");
+            Console.WriteLine("Será que vai chover 2?");
 
             Console.ReadLine();
         }
